@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function Contact() {
   return <section className="contact-page page-section">
     <div><p className="eyebrow">Contact</p><h1>We welcome<br /><em>your visit.</em></h1><p>Replace the sample details below with the temple's official contact information.</p></div>

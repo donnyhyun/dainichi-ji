@@ -1,3 +1,5 @@
+import React from "react";
+
 const events = [
   ['Spring', 'Temple open day', 'A seasonal day for visitors to walk the grounds and spend a little longer.'],
   ['Summer', 'Evening bell', 'A quiet summer gathering around dusk.'],
